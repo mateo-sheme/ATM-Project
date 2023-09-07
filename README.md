@@ -6,12 +6,9 @@ A fully functional ATM system with GUI (Java Swing) and SQL Server as Database. 
 
 > Here the admin is presented to either go to the ATM or at the desk.
 
-![ATM Login](https://github.com/mateo-sheme/ATM-Project/blob/main/imagesATM/ATM2.png)
+![ATM Login](https://github.com/mateo-sheme/ATM-Project/blob/main/imagesATM/ATM2.png)      ![After Login ATM](https://github.com/mateo-sheme/ATM-Project/blob/main/imagesATM/ATM3.png)
 
 > The user / admin can enter the card number and also the pin and click the green button to login.
-
-![After Login ATM](https://github.com/mateo-sheme/ATM-Project/blob/main/imagesATM/ATM3.png)
-
 > After login the user can choose either to withdraw or to check balance. The balance afterwards pops up as a message. He can press the cancel button to go back if he wishes to withdraw.
 
 ![Chechk Balance](https://github.com/mateo-sheme/ATM-Project/blob/main/imagesATM/ATM4.png)
